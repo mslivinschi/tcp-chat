@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\tcp-chat.csproj": {}
+    "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\ChatServer\\tcp-chat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\tcp-chat.csproj": {
+    "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\ChatServer\\tcp-chat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\tcp-chat.csproj",
+        "projectUniqueName": "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\ChatServer\\tcp-chat.csproj",
         "projectName": "tcp-chat",
-        "projectPath": "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\tcp-chat.csproj",
+        "projectPath": "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\ChatServer\\tcp-chat.csproj",
         "packagesPath": "C:\\Users\\mslivinschi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\obj\\",
+        "outputPath": "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\ChatServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mslivinschi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,7 +32,7 @@ namespace tcp_chat
             {
                 tcpListener = new TcpListener(IPAddress.Any, 8888);
                 tcpListener.Start();
-                Console.WriteLine("Сервер запущен. Ожидание подключений...");
+                Console.WriteLine("The server is running. Waiting for connections...");
  
                 while (true)
                 {

@@ -29,7 +29,7 @@ namespace tcp_chat
                 string message = GetMessage();
                 userName = message;
  
-                message = userName + " вошел в чат";
+                message = userName + " has connected chat";
                 // посылаем сообщение о входе в чат всем подключенным пользователям
                 server.BroadcastMessage(message, this.Id);
                 Console.WriteLine(message);
@@ -45,7 +45,7 @@ namespace tcp_chat
                     }
                     catch
                     {
-                        message = String.Format("{0}: покинул чат", userName);
+                        message = String.Format("{0}: has left chat", userName);
                         Console.WriteLine(message);
                         server.BroadcastMessage(message, this.Id);
                         break;

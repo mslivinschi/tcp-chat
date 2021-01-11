@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h9z2yMEPW+Llimzpb9J9NbnfxjHCeU/oUFiRyMR4voBg2yNkzMeGI16SxzNWEa775YZby/ksGiIIxIyDD1mpfg==",
+  "dgSpecHash": "sADVITmeGYbJ3TB3gY2MPYqKQmiHHUbzIh+7BXHTPv8ACcLyB2La3J6WlcZnIRAlY6Noj+3bUqm5tGAYW16ikA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\tcp-chat.csproj",
+  "projectFilePath": "C:\\Users\\mslivinschi\\Desktop\\UTM\\Programare Retele\\tcp-chat\\ChatServer\\tcp-chat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
